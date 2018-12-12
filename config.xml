@@ -6,14 +6,14 @@
         versionCode = "35100"
         android-versionCode="35310"
         version   = "3.5.3.1">
-  <name>Tadawul Exams</name>
+  <name>Learn with EI</name>
 
     <description>
-        Tadawul Exams official app
+        Learn with EI
     </description>
 
      <author href="https://www.TadawulExams.com" email="admin@tadawul.academy">
-        Tadawul Academy FZE
+        Learn with EI
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
